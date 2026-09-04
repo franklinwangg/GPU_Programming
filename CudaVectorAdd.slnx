@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CudaVectorAdd/CudaVectorAdd.vcxproj" Id="52fefad9-6432-46a3-bba4-839111c428d4" />
+</Solution>
